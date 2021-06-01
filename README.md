@@ -1,2 +1,2 @@
 
-Pandas Numpy Requests bs4 from BeautifulSoup
+Pandas,Numpy,Requests,bs4 from BeautifulSoup
